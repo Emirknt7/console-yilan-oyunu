@@ -1,0 +1,15 @@
+C:\Users\Emir\Desktop\EMR\kodlama\c#\c# test\test22\test22\bin\Debug\test22.exe.config
+C:\Users\Emir\Desktop\EMR\kodlama\c#\c# test\test22\test22\bin\Debug\test22.exe
+C:\Users\Emir\Desktop\EMR\kodlama\c#\c# test\test22\test22\bin\Debug\test22.pdb
+C:\Users\Emir\Desktop\EMR\kodlama\c#\c# test\test22\test22\obj\Debug\test22.csproj.AssemblyReference.cache
+C:\Users\Emir\Desktop\EMR\kodlama\c#\c# test\test22\test22\obj\Debug\test22.csproj.SuggestedBindingRedirects.cache
+C:\Users\Emir\Desktop\EMR\kodlama\c#\c# test\test22\test22\obj\Debug\test22.csproj.CoreCompileInputs.cache
+C:\Users\Emir\Desktop\EMR\kodlama\c#\c# test\test22\test22\obj\Debug\test22.exe
+C:\Users\Emir\Desktop\EMR\kodlama\c#\c# test\test22\test22\obj\Debug\test22.pdb
+C:\Users\Emir\Desktop\Emr\github projeleri\c# console kodları\oyun yılan\test22\bin\Debug\test22.exe.config
+C:\Users\Emir\Desktop\Emr\github projeleri\c# console kodları\oyun yılan\test22\bin\Debug\test22.exe
+C:\Users\Emir\Desktop\Emr\github projeleri\c# console kodları\oyun yılan\test22\bin\Debug\test22.pdb
+C:\Users\Emir\Desktop\Emr\github projeleri\c# console kodları\oyun yılan\test22\obj\Debug\test22.csproj.AssemblyReference.cache
+C:\Users\Emir\Desktop\Emr\github projeleri\c# console kodları\oyun yılan\test22\obj\Debug\test22.csproj.CoreCompileInputs.cache
+C:\Users\Emir\Desktop\Emr\github projeleri\c# console kodları\oyun yılan\test22\obj\Debug\test22.exe
+C:\Users\Emir\Desktop\Emr\github projeleri\c# console kodları\oyun yılan\test22\obj\Debug\test22.pdb
